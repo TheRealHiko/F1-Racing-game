@@ -10,6 +10,6 @@ config_version=5
 
 [application]
 
-config/name="racing game"
+config/name="F_1_Game"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
